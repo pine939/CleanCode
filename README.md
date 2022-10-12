@@ -2,7 +2,7 @@
 
 ## OverView 
 
-* [CleanCode(로버트 C.마틴)](https://g.co/kgs/XFk7eE)
+* 모든 출처는 [CleanCode(로버트 C.마틴)](https://g.co/kgs/XFk7eE)에 있습니다.
 * [Plan](https://docs.google.com/document/d/1THTFv2ZGenMa85qOkv2vpVFy3YYG4DuiraUQQKjP2bQ/edit?usp=sharing)
 
 ## Contents
